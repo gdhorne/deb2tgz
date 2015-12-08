@@ -1,0 +1,1 @@
+This shell script convert Debian packages to Slackware packages. Heavy based in rpm2tgz by Patrick Volkerding.
